@@ -1,4 +1,4 @@
-const ls = require("./06.01module");
+const ls = require("./06module");
 
 const dir = process.argv[2];
 const ext = process.argv[3];
